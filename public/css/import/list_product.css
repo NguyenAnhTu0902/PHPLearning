@@ -1,0 +1,11 @@
+/*LIST PRODUCT*/
+.tbody-thumb{
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+}
+.tbody-thumb img{ border: 1px solid #ddd;}
+/*paging*/
+#list-paging li[class='active'] a{
+    color:green!important;
+}
